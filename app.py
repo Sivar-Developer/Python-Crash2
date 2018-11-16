@@ -50,3 +50,8 @@ from math import *
 print(floor(3.7))
 print(ceil(3.7))
 print(sqrt(36))
+
+# Getting inputs from users
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+print("Hello " + name + "! You are " + age)
