@@ -3,3 +3,6 @@ Dwight - Salesman
 Pam - Receptionist
 Michael - Manager
 Oscar - Accountant
+Sivar - Developer
+Sivar - Developer
+Sivar - Developer
